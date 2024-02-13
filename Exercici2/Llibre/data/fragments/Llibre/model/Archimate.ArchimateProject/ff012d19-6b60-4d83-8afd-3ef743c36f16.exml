@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Llibre" version="4">
+  <OBJECT>
+    <ID name="Llibre" mc="Archimate.ArchimateProject" uid="ff012d19-6b60-4d83-8afd-3ef743c36f16"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[Llibre]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="model">
+        <COMPID name="Model" mc="Archimate.Model" uid="3fab07f7-f9c4-46d1-92c0-40e4cf9aaa2c"/>
+      </COMP>
+      <COMP relation="viewPoints">
+        <COMPID name="ViewPoint" mc="Archimate.ViewPoint" uid="2dcd7767-f743-42a7-8073-3bd56c577139"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Business" version="4">
+  <OBJECT>
+    <ID name="Business" mc="Archimate.BusinessFolder" uid="5f9f09ae-160a-4404-ba70-fa394a78d0af"/>
+    <PID name="Model" mc="Archimate.Model" uid="3fab07f7-f9c4-46d1-92c0-40e4cf9aaa2c"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[Business]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

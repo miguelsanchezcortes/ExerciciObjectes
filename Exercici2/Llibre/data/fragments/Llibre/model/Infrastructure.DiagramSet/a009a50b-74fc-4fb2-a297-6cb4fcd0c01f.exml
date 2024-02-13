@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Llibre" version="4">
+  <OBJECT>
+    <ID name="Llibre" mc="Infrastructure.DiagramSet" uid="a009a50b-74fc-4fb2-a297-6cb4fcd0c01f"/>
+    <PID name="Llibre" mc="Standard.Project" uid="53ab89fe-93aa-4e93-9c69-5c391b085396"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[Llibre]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

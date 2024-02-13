@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Model" version="4">
+  <OBJECT>
+    <ID name="Model" mc="Archimate.Model" uid="3fab07f7-f9c4-46d1-92c0-40e4cf9aaa2c"/>
+    <PID name="Llibre" mc="Archimate.ArchimateProject" uid="ff012d19-6b60-4d83-8afd-3ef743c36f16"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[Model]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="folder">
+        <COMPID name="Application" mc="Archimate.ApplicationFolder" uid="4e07eefa-d9e8-4000-99cc-bd942ad3d828"/>
+        <COMPID name="Business" mc="Archimate.BusinessFolder" uid="5f9f09ae-160a-4404-ba70-fa394a78d0af"/>
+        <COMPID name="Implementation" mc="Archimate.ImplementationFolder" uid="f92cb18c-45f1-4f0f-aebc-683f3ef8c397"/>
+        <COMPID name="Motivation" mc="Archimate.MotivationFolder" uid="102964ed-8ada-46b9-a637-5574496c3429"/>
+        <COMPID name="Physical" mc="Archimate.PhysicalFolder" uid="2ee27c47-5567-4387-b055-f837f9c9923c"/>
+        <COMPID name="Strategy" mc="Archimate.StrategyFolder" uid="7c1eafeb-2141-4235-8a9a-3d098596dbcb"/>
+        <COMPID name="Technology" mc="Archimate.TechnologyFolder" uid="9bc35499-0f01-4796-96b1-75a75cacfff4"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
