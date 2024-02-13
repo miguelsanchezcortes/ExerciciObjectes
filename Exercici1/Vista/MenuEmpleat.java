@@ -31,8 +31,10 @@ public class MenuEmpleat {
                 System.out.println("Empleat creat");
                 break;
                 case 2: // Modificar Empleat
+                ec.editarEmpleat();
                 break;
                 case 3: // Eliminar Empleat
+                ec.eliminarEmpleat();
                 break;
                 case 4: // Llistar Empleats
                 BasicCRUD.mostrarArray(empleats.getEmpleats());
