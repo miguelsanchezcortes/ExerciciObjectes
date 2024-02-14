@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="cotxe" version="4">
+  <OBJECT>
+    <ID name="cotxe" mc="Standard.Package" uid="ca7ca80f-b17e-4008-8c24-d7f0f9cad5d5"/>
+    <PID name="org" mc="Standard.Package" uid="911ed805-7112-4fed-8841-4673aea2f740"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[cotxe]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="model" mc="Standard.Package" uid="a8a0945e-8fe9-404b-a828-2b03b089c8cd"/>
+        <COMPID name="controller" mc="Standard.Package" uid="4f68afcd-89cd-4d67-af68-9bbd9ee96d5e"/>
+        <COMPID name="menu" mc="Standard.Package" uid="6384e095-ea39-494e-82fe-1dbaeb199656"/>
+        <COMPID name="util" mc="Standard.Package" uid="2f02d0f5-1e4d-4b38-9ca0-8c38994145b4"/>
+      </COMP>
+      <LINK relation="Extension">
+        <FOREIGNID name="JavaPackage" mc="Infrastructure.Stereotype" uid="01ec23a8-0000-0126-0000-000000000000"/>
+      </LINK>
+      <COMP relation="Product">
+        <COMPID name="cotxe Class diagram" mc="Standard.ClassDiagram" uid="8102d64e-9620-49f4-9976-73672dc9600c"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

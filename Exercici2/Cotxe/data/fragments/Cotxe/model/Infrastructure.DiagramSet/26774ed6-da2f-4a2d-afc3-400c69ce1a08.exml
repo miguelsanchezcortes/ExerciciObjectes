@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Cotxe" version="4">
+  <OBJECT>
+    <ID name="Cotxe" mc="Infrastructure.DiagramSet" uid="26774ed6-da2f-4a2d-afc3-400c69ce1a08"/>
+    <PID name="Cotxe" mc="Standard.Project" uid="892ce7dc-669d-40ef-bbba-355520306704"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[Cotxe]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

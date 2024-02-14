@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Cotxe" version="4">
+  <OBJECT>
+    <ID name="Cotxe" mc="Archimate.ArchimateProject" uid="43f90c12-2769-4249-a7fe-51417c2207aa"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[Cotxe]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="model">
+        <COMPID name="Model" mc="Archimate.Model" uid="13427eee-b338-4193-888c-00873d908b5f"/>
+      </COMP>
+      <COMP relation="viewPoints">
+        <COMPID name="ViewPoint" mc="Archimate.ViewPoint" uid="7b53f8de-a907-48fa-82b9-461e7ea58622"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

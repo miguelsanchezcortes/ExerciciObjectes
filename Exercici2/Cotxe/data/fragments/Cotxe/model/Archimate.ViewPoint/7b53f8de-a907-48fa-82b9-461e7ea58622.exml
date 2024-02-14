@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="ViewPoint" version="4">
+  <OBJECT>
+    <ID name="ViewPoint" mc="Archimate.ViewPoint" uid="7b53f8de-a907-48fa-82b9-461e7ea58622"/>
+    <PID name="Cotxe" mc="Archimate.ArchimateProject" uid="43f90c12-2769-4249-a7fe-51417c2207aa"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[ViewPoint]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="context">
+        <ID name="Model" mc="Archimate.Model" uid="13427eee-b338-4193-888c-00873d908b5f"/>
+      </LINK>
+      <COMP relation="Product">
+        <COMPID name="ViewPointDiagram" mc="Archimate.ViewPointDiagram" uid="fb91424f-753f-4b3f-bc69-acecad6b7f48"/>
+        <COMPID name="ArchimateView" mc="Archimate.ArchimateView" uid="10e4571c-9e3b-4872-96e9-1f1c4d324bf2"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

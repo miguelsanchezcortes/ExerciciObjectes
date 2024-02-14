@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Cotxe" version="4">
+  <OBJECT>
+    <ID name="Cotxe" mc="Standard.Project" uid="892ce7dc-669d-40ef-bbba-355520306704"/>
+    <ATTRIBUTES>
+      <ATT name="ProjectContext"></ATT>
+      <ATT name="ProjectDescr"></ATT>
+      <ATT name="Name"><![CDATA[Cotxe]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Model">
+        <COMPID name="cotxe" mc="Standard.Package" uid="56555c1c-07a8-4d75-b5f0-a7922d8b5643"/>
+      </COMP>
+      <COMP relation="DiagramRoot">
+        <COMPID name="Cotxe" mc="Infrastructure.DiagramSet" uid="26774ed6-da2f-4a2d-afc3-400c69ce1a08"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="model" version="4">
+  <OBJECT>
+    <ID name="model" mc="Standard.Package" uid="a8a0945e-8fe9-404b-a828-2b03b089c8cd"/>
+    <PID name="cotxe" mc="Standard.Package" uid="ca7ca80f-b17e-4008-8c24-d7f0f9cad5d5"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[model]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Cotxe" mc="Standard.Class" uid="6a3b7c79-eff6-440a-8c13-2c24cd381702"/>
+        <COMPID name="Finestra" mc="Standard.Class" uid="d9e4a45d-1b4b-4136-b2e5-a7c6e99ee600"/>
+        <COMPID name="Volant" mc="Standard.Class" uid="70abcc93-5e2e-4b0a-8324-af4479d615ef"/>
+        <COMPID name="Pito" mc="Standard.Class" uid="aae05615-b8e9-4053-a7d1-b8d144442955"/>
+        <COMPID name="Airbag" mc="Standard.Class" uid="28a0ff01-2215-4248-a368-0235c1b5376b"/>
+        <COMPID name="Pedal" mc="Standard.Class" uid="4e11930f-a5f8-4e91-a44f-402204a38dcb"/>
+        <COMPID name="Fre" mc="Standard.Class" uid="7f4ad2a6-3c94-407a-8ebd-7a7dc2c69cb3"/>
+        <COMPID name="Embrague" mc="Standard.Class" uid="f27547b6-44d4-439a-af41-cc7eb0bb177a"/>
+        <COMPID name="Accelerar" mc="Standard.Class" uid="7f65f73f-531f-49ee-9525-5b9c97e81ff7"/>
+        <COMPID name="Roda" mc="Standard.Class" uid="a5b6050a-cb7f-4fe1-839b-4aab667ba756"/>
+        <OBJECT>
+          <ID name="Combustible" mc="Standard.Enumeration" uid="baad628e-60a8-4841-9ff3-702224f0f098"/>
+          <ATTRIBUTES>
+            <ATT name="IsElementary">true</ATT>
+            <ATT name="IsAbstract">false</ATT>
+            <ATT name="IsLeaf">false</ATT>
+            <ATT name="IsRoot">false</ATT>
+            <ATT name="Visibility">Public</ATT>
+            <ATT name="Name"><![CDATA[Combustible]]></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <COMP relation="Value">
+              <OBJECT>
+                <ID name="Diesel" mc="Standard.EnumerationLiteral" uid="572e85cc-b80f-45bc-98a0-05e576423cc6"/>
+                <ATTRIBUTES>
+                  <ATT name="Name"><![CDATA[Diesel]]></ATT>
+                  <ATT name="status">1970354901745664</ATT>
+                </ATTRIBUTES>
+                <DEPENDENCIES></DEPENDENCIES>
+              </OBJECT>
+              <OBJECT>
+                <ID name="Gasolina" mc="Standard.EnumerationLiteral" uid="0c5657d6-683b-4bc2-b727-082279f30537"/>
+                <ATTRIBUTES>
+                  <ATT name="Name"><![CDATA[Gasolina]]></ATT>
+                  <ATT name="status">1970354901745664</ATT>
+                </ATTRIBUTES>
+                <DEPENDENCIES></DEPENDENCIES>
+              </OBJECT>
+            </COMP>
+            <LINK relation="Extension">
+              <FOREIGNID name="JavaEnumeration" mc="Infrastructure.Stereotype" uid="01ec23a8-0000-0262-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+      <LINK relation="Extension">
+        <FOREIGNID name="JavaPackage" mc="Infrastructure.Stereotype" uid="01ec23a8-0000-0126-0000-000000000000"/>
+      </LINK>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

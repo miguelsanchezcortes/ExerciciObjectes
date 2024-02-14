@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Technology" version="4">
+  <OBJECT>
+    <ID name="Technology" mc="Archimate.TechnologyFolder" uid="038d4cfd-d500-45a1-bc52-b71c36a1d887"/>
+    <PID name="Model" mc="Archimate.Model" uid="13427eee-b338-4193-888c-00873d908b5f"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[Technology]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>
